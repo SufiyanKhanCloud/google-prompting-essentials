@@ -1,4 +1,4 @@
-# Module 2 Summary: Prompt with Personality – Match Gen AI to Your Writing Style
+# Module 2 Summary: Design Prompts for Everyday Work Tasks
 
 ## 🎯 Key Concept
 Generative AI tools adapt to tone and style through **contextual understanding** and **user-driven prompts**. With the right instructions, these tools can match your desired communication style—be it professional, casual, persuasive, or academic.
