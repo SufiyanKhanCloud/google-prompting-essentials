@@ -1,4 +1,4 @@
-# Module 3: Strategies for Data Analysis
+# Module 3: Speed Up Data Analysis And Presentation Building
 
 Generative AI can help uncover insights in datasets by identifying patterns, connections, and trends. This module focuses on strategies to prompt gen AI tools effectively for data analysis while keeping in mind their strengths, limitations, and best-use scenarios.
 
