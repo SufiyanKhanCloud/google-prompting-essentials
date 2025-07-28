@@ -1,4 +1,4 @@
-# 📘 Module 1 Summary – Google Prompting Essentials
+# 📘 Module 1 Summary – Start Writing Prompts Like a Pro
 
 ## 🧠 Course Overview
 - Learn how to write clear and effective prompts for generative AI tools.
