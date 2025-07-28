@@ -24,10 +24,10 @@ Each folder contains:
 
 | Module | Title | Link |
 |--------|-------|------|
-| 1 | Start Writing Prompts Like A Pro | [Module 1 Summary](./Module-1/README.md) |
-| 2 | Design Prompts for Everyday Work Tasks | [Module 2 Summary](./Module-2/README.md) |
-| 3 | Speed Up Data Analysis and Presentation Building | [Module 3 Summary](./Module-3/README.md) |
-| 4 | Use AI as a Creative or Expert Partner | [Module 4 Summary](./Module-4/README.md) |
+| 1 | Start Writing Prompts Like A Pro | [Module 1 Summary](./Module-1/summary.md) |
+| 2 | Design Prompts for Everyday Work Tasks | [Module 2 Summary](./Module-2/summary.md) |
+| 3 | Speed Up Data Analysis and Presentation Building | [Module 3 Summary](./Module-3/summary.md) |
+| 4 | Use AI as a Creative or Expert Partner | [Module 4 Summary](./Module-4/summary.md) |
 
 ---
 
