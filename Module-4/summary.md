@@ -1,4 +1,4 @@
-# 📘 Module 4: Simplify Multi-Step Projects with Prompt Chaining
+# 📘 Module 4: Use AI as a Creative or Expert Partner
 
 Prompt chaining helps break down complex tasks into smaller, manageable steps. It improves AI output quality and allows for better human oversight.
 
