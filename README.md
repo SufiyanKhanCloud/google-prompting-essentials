@@ -26,8 +26,8 @@ Each folder contains:
 |--------|-------|------|
 | 1 | Start Writing Prompts Like A Pro | [Module 1 Summary](./Module-1/README.md) |
 | 2 | Design Prompts for Everyday Work Tasks | [Module 2 Summary](./Module-2/README.md) |
-| 3 | Applied Prompting in DevOps | [Module 3 Summary](./Module-3/README.md) |
-| 4 | Developer Workflow Optimization | [Module 4 Summary](./Module-4/README.md) |
+| 3 | Speed Up Data Analysis and Presentation Building | [Module 3 Summary](./Module-3/README.md) |
+| 4 | Use AI as a Creative or Expert Partner | [Module 4 Summary](./Module-4/README.md) |
 
 ---
 
