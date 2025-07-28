@@ -40,16 +40,6 @@ Each folder contains:
 
 ---
 
-## 📁 Certification & Proof
-
-Along with the module summaries, this repository also includes:
-
-- 🧾 4 individual module certificates  
-- 🏆 1 final specialization certificate  
-- 🔰 Digital badge issued by Google
-
----
-
 ## 🤝 Connect
 
 If you find this helpful, feel free to star 🌟 the repo and connect with me:
